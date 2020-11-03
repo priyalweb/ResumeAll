@@ -13,6 +13,9 @@ Admin can look at the list of resume and view their details.
 ### Want to see how your/others Resume look - View here.
 ![Resume_View](https://user-images.githubusercontent.com/56549165/98003335-a452c880-1e14-11eb-8b96-f5b30e7aff5b.png)
 
+### List your account Resumes. Update, View, Delete them OR Add more resumes!
+![Resume_list](https://user-images.githubusercontent.com/56549165/98026358-01f50e00-1e31-11eb-8769-019662089d95.png)
+
 ### Appling for the job? Add your resume here.
 ![Add_resume](https://user-images.githubusercontent.com/56549165/98003341-a583f580-1e14-11eb-8a0f-714cce9b5cfd.png)
 
