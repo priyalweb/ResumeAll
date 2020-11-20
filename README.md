@@ -26,3 +26,4 @@ Admin can look at the list of resume and view their details.
 ![Delet_Resume](https://user-images.githubusercontent.com/56549165/98003345-a6b52280-1e14-11eb-885f-30ce489f1d14.png)
 
 
+Tech-Stack used: HTML, CSS, PHP, MySql, javaScript, jQuery 
